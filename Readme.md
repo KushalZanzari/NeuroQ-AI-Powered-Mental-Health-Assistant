@@ -301,8 +301,7 @@ python-jose
 ---
 
 ## 📄 License
-
-MIT License
+This project is licensed under the MIT License. See the LICENSE file for more details. 
 
 ---
 
@@ -311,9 +310,26 @@ This platform is for informational and supportive purposes only. It is not a sub
 
 ---
 
+## 📧 Contact
+For questions, feedback, or suggestions, please reach out at [kushalzanzari@gmail.com](mailto:kushalzanzari@gmail.com).
+
+---
 
 ## 🙌 Credits
 
 Developed by **Kushal Zanzari**
+
+---
+
+
+
+
+
+
+
+
+
+
+
 
 
