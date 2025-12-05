@@ -25,6 +25,10 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+@app.get("/")
+def home():
+    return {"message": "Welcome to the NeuroQ API! Visit /docs for documentation."}
+
 @app.get("/health")
 def health():
     return {"status": "ok"}
