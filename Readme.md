@@ -306,9 +306,8 @@ MIT License
 
 ---
 
----
-
-⚠️ Disclaimer: This platform is for informational and supportive purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of qualified health providers with questions about medical conditions.
+## ⚠️ Disclaimer
+This platform is for informational and supportive purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of qualified health providers with questions about medical conditions.
 
 ---
 
