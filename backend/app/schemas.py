@@ -6,8 +6,8 @@ from pydantic import BaseModel, EmailStr
 class UserCreate(BaseModel):
     email: EmailStr
     password: str
-    full_name: str | None = None
-    username: str | None = None
+    full_name: str 
+    username: str 
 
 
 # --------------------
