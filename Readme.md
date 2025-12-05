@@ -301,7 +301,7 @@ python-jose
 ---
 
 ## 📄 License
-This project is licensed under the MIT License. See the LICENSE file for more details. 
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/KushalZanzari/NeuroQ-AI-Powered-Mental-Health-Assistant/blob/main/LICENSE) file for more details. 
 
 ---
 
