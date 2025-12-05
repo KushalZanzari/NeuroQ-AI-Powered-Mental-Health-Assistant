@@ -1,8 +1,9 @@
 import axios from "axios";
 import { useAuthStore } from "../store/authStore";
 
+// Read backend URL from Render environment variable
 const api = axios.create({
-  baseURL: "https://neuroq-ai-powered-mental-health-assistant.onrender.com",
+  baseURL: import.meta.env.VITE_API_URL,  
   headers: {
     "Content-Type": "application/json",
   },
@@ -10,10 +11,10 @@ const api = axios.create({
 
 // AUTO-ATTACH TOKEN
 api.interceptors.request.use((config) => {
-  const token = useAuthStore.getState().token;  // NOT localStorage
+  const token = useAuthStore.getState().token;
   if (token) config.headers.Authorization = `Bearer ${token}`;
   return config;
 });
 
-
 export default api;
+
