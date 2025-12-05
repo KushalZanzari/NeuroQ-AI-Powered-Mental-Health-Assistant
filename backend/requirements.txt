@@ -8,4 +8,4 @@ python-jose[cryptography]
 pydantic
 email-validator
 pydantic[email]
-
+groq
