@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "user_id": 3,
+    "timestamp": "2025-12-04T09:29:55.927989Z",
+    "title": "Panic / Anxiety",
+    "input": {},
+    "prediction": {
+      "predicted_disorder": "Panic / Anxiety",
+      "confidence_score": 0.32,
+      "severity_level": "moderate",
+      "recommendations": "Try relaxation techniques (deep breathing, short mindful breaks), improve sleep hygiene, and consider speaking with a mental health professional if symptoms persist.",
+      "next_steps": "1. Practice relaxation  2. Keep sleep schedule  3. Track symptoms for a week  4. Consider professional help"
+    }
+  },
+  {
+    "id": 2,
+    "user_id": 1,
+    "timestamp": "2025-12-04T17:23:05.645508Z",
+    "title": "Anxiety",
+    "input": {
+      "thoughts": "User symptoms",
+      "symptoms": [],
+      "mood": 5,
+      "sleep_hours": 7.0,
+      "stress_level": 5,
+      "prediction": null
+    },
+    "prediction": {
+      "predicted_disorder": "Anxiety",
+      "severity_level": "moderate",
+      "confidence_score": 0.7,
+      "recommendations": "Consider engaging in stress-reducing activities, such as meditation or yoga, to help manage anxiety symptoms. Scheduling regular check-ins with a mental health professional can provide necessary support. Prioritizing a consistent sleep schedule and maintaining a balanced lifestyle can also be beneficial."
+    }
+  },
+  {
+    "id": 3,
+    "user_id": 1,
+    "timestamp": "2025-12-04T17:23:54.096171Z",
+    "title": "Panic / Anxiety",
+    "input": {},
+    "prediction": {
+      "predicted_disorder": "Panic / Anxiety",
+      "confidence_score": 0.44,
+      "severity_level": "moderate",
+      "recommendations": "Try relaxation techniques (deep breathing, short mindful breaks), improve sleep hygiene, and consider speaking with a mental health professional if symptoms persist.",
+      "next_steps": "1. Practice relaxation  2. Keep sleep schedule  3. Track symptoms for a week  4. Consider professional help"
+    }
+  },
+  {
+    "id": 4,
+    "user_id": 1,
+    "timestamp": "2025-12-04T19:05:03.604179Z",
+    "title": "Panic / Anxiety",
+    "input": {},
+    "prediction": {
+      "predicted_disorder": "Panic / Anxiety",
+      "confidence_score": 0.44,
+      "severity_level": "moderate",
+      "recommendations": "Try relaxation techniques (deep breathing, short mindful breaks), improve sleep hygiene, and consider speaking with a mental health professional if symptoms persist.",
+      "next_steps": "1. Practice relaxation  2. Keep sleep schedule  3. Track symptoms for a week  4. Consider professional help"
+    }
+  },
+  {
+    "id": 5,
+    "user_id": 1,
+    "timestamp": "2025-12-04T19:05:50.125116Z",
+    "title": "Anxiety",
+    "input": {
+      "thoughts": "User symptoms",
+      "symptoms": [],
+      "mood": 5,
+      "sleep_hours": 7.0,
+      "stress_level": 5,
+      "prediction": null
+    },
+    "prediction": {
+      "predicted_disorder": "Anxiety",
+      "severity_level": "moderate",
+      "confidence_score": 0.7,
+      "recommendations": "Consider engaging in relaxation techniques, such as meditation or deep breathing exercises, to help manage stress and anxiety levels. Regular exercise and maintaining a consistent sleep schedule may also contribute to improved mood and stress management. Consult a mental health professional for further evaluation and guidance."
+    }
+  },
+  {
+    "id": 6,
+    "user_id": 1,
+    "timestamp": "2025-12-05T04:16:25.192327Z",
+    "title": "Anxiety",
+    "input": {
+      "thoughts": "User symptoms",
+      "symptoms": [],
+      "mood": 5,
+      "sleep_hours": 7.0,
+      "stress_level": 5,
+      "prediction": null
+    },
+    "prediction": {
+      "predicted_disorder": "Anxiety",
+      "severity_level": "mild",
+      "confidence_score": 0.8,
+      "recommendations": "Seek relaxation techniques such as meditation or deep breathing exercises to manage stress and anxiety levels. Engage in regular physical activity, like a 30-minute walk each day, to boost mood and energy levels. Consider scheduling a follow-up consultation to reassess progress and adjust strategies as needed."
+    }
+  },
+  {
+    "id": 7,
+    "user_id": 1,
+    "timestamp": "2025-12-05T04:16:34.421703Z",
+    "title": "Panic / Anxiety",
+    "input": {},
+    "prediction": {
+      "predicted_disorder": "Panic / Anxiety",
+      "confidence_score": 0.51,
+      "severity_level": "moderate",
+      "recommendations": "Try relaxation techniques (deep breathing, short mindful breaks), improve sleep hygiene, and consider speaking with a mental health professional if symptoms persist.",
+      "next_steps": "1. Practice relaxation  2. Keep sleep schedule  3. Track symptoms for a week  4. Consider professional help"
+    }
+  },
+  {
+    "id": 8,
+    "user_id": 1,
+    "timestamp": "2025-12-05T04:16:58.488350Z",
+    "title": "Panic / Anxiety",
+    "input": {},
+    "prediction": {
+      "predicted_disorder": "Panic / Anxiety",
+      "confidence_score": 0.51,
+      "severity_level": "moderate",
+      "recommendations": "Try relaxation techniques (deep breathing, short mindful breaks), improve sleep hygiene, and consider speaking with a mental health professional if symptoms persist.",
+      "next_steps": "1. Practice relaxation  2. Keep sleep schedule  3. Track symptoms for a week  4. Consider professional help"
+    }
+  }
+]
