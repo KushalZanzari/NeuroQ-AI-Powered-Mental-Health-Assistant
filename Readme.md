@@ -301,7 +301,7 @@ python-jose
 ---
 
 ## 🌐 Live Website
-The platform is live! Visit us at [Neuro](https://neuroq-ai-powered-mental-health-9t5b.onrender.com) to track mental health! 
+The platform is live! Visit us at [NeuroQ](https://neuroq-ai-powered-mental-health-9t5b.onrender.com) to track mental health! 
 
 ---
 
