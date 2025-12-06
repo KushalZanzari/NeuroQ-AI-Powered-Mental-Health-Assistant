@@ -300,6 +300,11 @@ python-jose
 
 ---
 
+## 🌐 Live Website
+The platform is live! Visit us at [Neuro](https://neuroq-ai-powered-mental-health-9t5b.onrender.com) to track mental health! 
+
+---
+
 ## 📄 License
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/KushalZanzari/NeuroQ-AI-Powered-Mental-Health-Assistant/blob/main/LICENSE) file for more details. 
 
